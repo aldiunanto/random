@@ -61,9 +61,9 @@
 	<form action="randomact.php" method="post">
 	<table>
 		<tr>
-			<td>Masukkan Jumlah Murid</td>
+			<td>Masukkan Jumlah Peserta</td>
 			<td>:</td>
-			<td><input type="text" name="jml_murid" /></td>
+			<td><input type="text" name="peserta" /></td>
 		</tr>
 		<tr>
 			<td>Masukkan jumlah kelompok yang akan dibuat</td>
@@ -82,7 +82,7 @@
 	
 	<footer>
 		<p>Created by: <a href="http://aldiunanto.com" target="_blank">Aldi Unanto</a></p>
-		<p>aldiunanto@icloud.com | aldiunanto@yahoo.com | aldiunanto@gmail.com</p>
+		<p>aldiunanto@gmail.com | aldiunanto@yahoo.com | aldiunanto@icloud.com</p>
 	</footer>	
 </body>
 </html>
